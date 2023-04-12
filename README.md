@@ -11,3 +11,4 @@
 6. [Mermaid Live Editor](https://github.com/mermaid-js/mermaid-live-editor)
 7. [Faker](https://github.com/faker-js/faker)
 8. [Atri Engine](https://github.com/Atri-Labs/atrilabs-engine)
+9. [Zulip](https://github.com/zulip/zulip/contribute)
