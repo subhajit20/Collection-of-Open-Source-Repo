@@ -12,3 +12,4 @@
 7. [Faker](https://github.com/faker-js/faker)
 8. [Atri Engine](https://github.com/Atri-Labs/atrilabs-engine)
 9. [Zulip](https://github.com/zulip/zulip/contribute)
+10.[CircuitVerse](https://github.com/CircuitVerse/CircuitVerse/pulls)
