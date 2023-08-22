@@ -14,5 +14,5 @@
 9. [Zulip](https://github.com/zulip/zulip/contribute)
 10. [CircuitVerse](https://github.com/CircuitVerse/CircuitVerse/pulls)
 11. [Supabase](https://github.com/supabase/supabase/issues)
-12. [Cal] (https://github.com/calcom/cal.com/issues?q=is%3Aopen+is%3Aissue+label%3A%22%E2%9C%85+good+first+issue%22)
+12. [Cal](https://github.com/calcom/cal.com/issues?q=is%3Aopen+is%3Aissue+label%3A%22%E2%9C%85+good+first+issue%22)
 13. [Grafana Labs](https://github.com/grafana/grafana/contribute)
