@@ -17,3 +17,4 @@
 12. [Cal](https://github.com/calcom/cal.com/issues?q=is%3Aopen+is%3Aissue+label%3A%22%E2%9C%85+good+first+issue%22)
 13. [Grafana Labs](https://github.com/grafana/grafana/contribute)
 14. [Storybook](https://github.com/storybookjs/storybook/issues)
+15. [Oppia](https://github.com/oppia/oppia/issues)
