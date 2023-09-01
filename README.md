@@ -19,3 +19,4 @@
 14. [Storybook](https://github.com/storybookjs/storybook/issues)
 15. [Oppia](https://github.com/oppia/oppia/issues)
 16. [Nextcloud Sever](https://github.com/nextcloud/server/issues)
+17. [Typebot](https://github.com/baptisteArno/typebot.io/issues)
